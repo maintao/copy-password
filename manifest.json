@@ -3,7 +3,6 @@
   "description": "With this extension, you can copy password like **** to pasteboard.",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["scripting"],
   "action": {
     "default_title": "Copy Password",
     "default_popup": "popup.html"
